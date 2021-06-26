@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/anotherdungeon/static/css/main.aed26598.chunk.css",
-    "main.js": "/anotherdungeon/static/js/main.4385edd6.chunk.js",
-    "main.js.map": "/anotherdungeon/static/js/main.4385edd6.chunk.js.map",
+    "main.js": "/anotherdungeon/static/js/main.d3ebd0a6.chunk.js",
+    "main.js.map": "/anotherdungeon/static/js/main.d3ebd0a6.chunk.js.map",
     "runtime-main.js": "/anotherdungeon/static/js/runtime-main.bc6709f4.js",
     "runtime-main.js.map": "/anotherdungeon/static/js/runtime-main.bc6709f4.js.map",
     "static/css/2.8c5372c1.chunk.css": "/anotherdungeon/static/css/2.8c5372c1.chunk.css",
@@ -13,13 +13,14 @@
     "index.html": "/anotherdungeon/index.html",
     "static/css/2.8c5372c1.chunk.css.map": "/anotherdungeon/static/css/2.8c5372c1.chunk.css.map",
     "static/css/main.aed26598.chunk.css.map": "/anotherdungeon/static/css/main.aed26598.chunk.css.map",
-    "static/js/2.ea2551aa.chunk.js.LICENSE.txt": "/anotherdungeon/static/js/2.ea2551aa.chunk.js.LICENSE.txt"
+    "static/js/2.ea2551aa.chunk.js.LICENSE.txt": "/anotherdungeon/static/js/2.ea2551aa.chunk.js.LICENSE.txt",
+    "static/media/logo.7cbb91e4.png": "/anotherdungeon/static/media/logo.7cbb91e4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bc6709f4.js",
     "static/css/2.8c5372c1.chunk.css",
     "static/js/2.ea2551aa.chunk.js",
     "static/css/main.aed26598.chunk.css",
-    "static/js/main.4385edd6.chunk.js"
+    "static/js/main.d3ebd0a6.chunk.js"
   ]
 }
