@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/anotherdungeon/static/css/main.aed26598.chunk.css",
-    "main.js": "/anotherdungeon/static/js/main.3d61712f.chunk.js",
-    "main.js.map": "/anotherdungeon/static/js/main.3d61712f.chunk.js.map",
+    "main.js": "/anotherdungeon/static/js/main.73878e6c.chunk.js",
+    "main.js.map": "/anotherdungeon/static/js/main.73878e6c.chunk.js.map",
     "runtime-main.js": "/anotherdungeon/static/js/runtime-main.ebe02137.js",
     "runtime-main.js.map": "/anotherdungeon/static/js/runtime-main.ebe02137.js.map",
     "static/css/2.ebe1538b.chunk.css": "/anotherdungeon/static/css/2.ebe1538b.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.ebe1538b.chunk.css",
     "static/js/2.aa07188c.chunk.js",
     "static/css/main.aed26598.chunk.css",
-    "static/js/main.3d61712f.chunk.js"
+    "static/js/main.73878e6c.chunk.js"
   ]
 }
